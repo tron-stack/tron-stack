@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tron-stack
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently learning general HTML and CSS
+- 🌱 I’m currently learning Java Full Stack
 - 😎 I'm a generally chill person.
 - 📫 How to reach me - message me on github.
 
