@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tron-stack
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning Java Full Stack
-- 😎 I'm a generally chill person.
+- 👀 I am a Full Stack Java React and AWS Developer
+- 🌱 I’m currently learning Python
+- 😎 Programming is like a meditation for me
 - 📫 How to reach me - message me on github.
 
 <!---
